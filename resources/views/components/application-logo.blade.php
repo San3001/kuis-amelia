@@ -1,0 +1,1 @@
+<img src="logo_mila.jpg" alt="" width="60px">
